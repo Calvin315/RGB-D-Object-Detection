@@ -1,3 +1,3 @@
-#RGB-Depth Object Detection
+# RGB-Depth Object Detection
 
 Our project is obstacle detection and distance estimation for robotic applications. Instead of using machine learning to detect objects in a video stream we wanted to combine RGB and depth image data to detect objects on the fly. We believe that machine learning algorithms used for object detection takes too long to train and only detects objects you train it to detect. We wanted to make an algorithm that can detect any objects so a rover can safely path around it. Our project involves the Intel Realsense to retrieve RGB and depth image stream which we use to detect objects.
